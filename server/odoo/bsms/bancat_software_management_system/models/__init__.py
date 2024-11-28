@@ -1,1 +1,1 @@
-from . import bsms_contact,inherit_res_partner
+from . import bsms_contact,inherit_res_partner,bsms_donor,bsms_patient
